@@ -1,0 +1,10 @@
+{
+    "name": "flickr_dates",
+    "description": "A Flickr util app to set 'date taken' of photos to what is encoded in the file name",
+    "authors": "sly1024",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "flickrapi": "^0.6.0"
+    }
+}
