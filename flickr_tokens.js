@@ -1,4 +1,4 @@
-export const tokens = {
+module.exports.tokens = {
     // THESE ARE NOT VALID KEYS/TOKENS.
     // Get your own here: https://www.flickr.com/services/apps/create/
     api_key: "1234567890abcdef1234567890abcdef",
